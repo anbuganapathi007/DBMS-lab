@@ -1,8 +1,3 @@
-
-SQL*Plus: Release 10.2.0.1.0 - Production on Tue Aug 11 11:44:09 2026
-
-Copyright (c) 1982, 2005, Oracle.  All rights reserved.
-
 SQL> Create table Student0(StudentID int PRIMARY KEY, Name varchar(30), Age int);
 
 Table created.
